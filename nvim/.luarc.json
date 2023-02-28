@@ -1,0 +1,10 @@
+{
+    "diagnostics.disable": [
+        "deprecated",
+        "different-requires"
+    ],
+    "diagnostics.globals": [
+        "vim",
+        "let"
+    ]
+}
